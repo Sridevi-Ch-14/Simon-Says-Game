@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2{
+    font-weight: 500;
+}
+.btn {
+    height: 200px;
+    width: 200px;
+    border-radius: 15%;
+    border: 10px solid black;
+    margin: 0.5rem ;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+}
+
+.red{
+    background-color: rgb(227, 45, 133);;
+}
+
+.yellow{
+    background-color:rgb(210, 103, 15);
+     
+}
+
+.green{
+    background-color: rgb(7, 153, 202);;
+}
+
+.blue{
+    background-color: rgb(125, 125, 241);
+}
+
+.flash{
+    background-color: white;
+} 
+
+
